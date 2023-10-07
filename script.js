@@ -75,7 +75,6 @@ document.querySelector('.check').addEventListener('click', function () {
     //     document.querySelector('.message').textContent =
     //       'you lose the game 📛📛📛';
     //   }
-    // }
   }
 });
 
